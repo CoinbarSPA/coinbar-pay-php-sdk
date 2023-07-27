@@ -25,11 +25,5 @@
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/CoinbarSPA/crypto-payments-php"
-        }
-    ],
     "minimum-stability": "stable"
 }
