@@ -7,8 +7,8 @@
     "content-hash": "8508d0dc5e57cc3c9c10a3963f4e4e5e",
     "packages": [
         {
-            "name": "adamantic/crypto-payments-php",
-            "version": "dev-main",
+            "name": "coinbar/crypto-payments-php",
+            "version": "stable",
             "source": {
                 "type": "git",
                 "url": "https://github.com/adamantic-io/crypto-payments-php.git",
