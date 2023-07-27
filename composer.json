@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/adamantic-io/crypto-payments-php"
+            "url": "https://github.com/CoinbarSPA/crypto-payments-php"
         }
     ],
     "minimum-stability": "stable"
