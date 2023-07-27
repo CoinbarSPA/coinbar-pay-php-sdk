@@ -31,5 +31,5 @@
             "url": "https://github.com/adamantic-io/crypto-payments-php"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
