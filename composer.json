@@ -23,7 +23,7 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "brick/math": ">=0.8",
-        "vlucas/phpdotenv": "^2.6.9",
+        "vlucas/phpdotenv": ">=2.6.9",
         "coinbar/crypto-payments-php": ">=0.3"
     },
     "require-dev": {
