@@ -12,6 +12,10 @@
         {
             "name": "Coinbar SPA",
             "email": "info@coinbar.io"
+        },
+        {
+            "name": "Adamantic",
+            "email": "info@adamantic.io"
         }
     ],
     "require": {
